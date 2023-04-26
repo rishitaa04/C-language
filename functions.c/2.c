@@ -5,7 +5,7 @@ void printhello();
 int main()
 {
     printhello(); // function call
-    return 0;
+    return 0;     // finishin a function
 }
 // function definition
 void printhello()

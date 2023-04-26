@@ -1,3 +1,5 @@
+//  to avoid repetition
+
 /*#include <stdio.h>
 int main()
 {
